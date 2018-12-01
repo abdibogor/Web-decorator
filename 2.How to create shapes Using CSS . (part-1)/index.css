@@ -1,0 +1,22 @@
+div{
+	display:inline-block;
+}
+.circle{
+	width:0;
+	height:0;
+	border: groove 80px blue;
+	border-radius:50%;
+}
+.triangle{
+	width:0;
+	height:0;
+	border:groove 100px;
+	border-color:  transparent  transparent red  red;
+}
+.pacman{
+	width:0;
+	height:0;
+	border:solid 90px;
+	border-color:yellow transparent yellow yellow;
+	border-radius:50%;
+}
